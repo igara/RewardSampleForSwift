@@ -1,0 +1,6 @@
+framework module VAMP {
+  umbrella header "VAMP.h"
+
+  export *
+  module * { export * }
+}
