@@ -2,11 +2,11 @@
 
 ### Fork
 
-https://github.com/AdGeneration/VAMP-iOS-SDK/tree/master/RewardSampleForSwift
+https://github.com/AdGeneration/VAMP-iOS-SDK/tree/3.1.3
 
 ### Document
 
-https://github.com/AdGeneration/VAMP-iOS-SDK/wiki/VAMP-iOS-Integration-Guide
+https://github.com/AdGeneration/VAMP-iOS-SDK/wiki/VAMP-iOS-Integration-Guide/74b607b1639c678dac2b34ead6bf70aa7070e264
 
 ### Build Version
 
